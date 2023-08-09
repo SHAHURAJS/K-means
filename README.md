@@ -17,8 +17,8 @@ You can find the code for this project [here](https://github.com/SHAHURAJS/K-mea
 
 ## Installation
 
-To follow this project, please install the Library given in the[requirement.txt](https://github.com/SHAHURAJS/K-means/blob/main/requirement.txt)
+To follow this project, please install the Library given in the [requirement.txt](https://github.com/SHAHURAJS/K-means/blob/main/requirement.txt)
 
 ## Data
 
-We'll be using data from FIFA, which you can download [here](https://www.kaggle.com/datasets/stefanoleone992/fifa-22-complete-player-dataset).We'll use the file `Player_dataset.xlsx`. 
+We'll be using data from FIFA, which you can download [here](https://www.kaggle.com/datasets/stefanoleone992/fifa-22-complete-player-dataset). We'll use the file `Player_dataset.xlsx`. 
